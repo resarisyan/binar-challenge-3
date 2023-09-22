@@ -1,0 +1,11 @@
+null
+			BinarFud
+null
+Terima Kasih Sudah Memesan Di BinarFud
+Dibawah Ini Adalah Pesanan Anda
+null+
+Total			 0		 0.0
+Pembayaran : BinarCash
+null
+Simpan Struk Ini Sebagai Bukti Pembayaran Anda
+null
